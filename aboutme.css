@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+   color: white;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/R.690daeaa8c2f89b28653dfe0efdfe065?rik=TjkYEP4srhsxbg&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fuQ4tqzk.jpg&ehk=Yp22L7RSdNelY4QfOD6l%2b7YuLKxkeCQIV8aYcNi8oIY%3d&risl=&pid=ImgRaw&r=0);
+}
+.about{
+    width: 100%;
+    padding: 100px 0px;
+}
+.about img{
+    height: auto;
+    width: 430px;
+
+}
+.about-text{
+    width: 550px;
+}
+.main{
+    width: 1130px;
+max-width: 95%;
+margin: 0 auto;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+.about-text h1{
+    font-style: oblique;
+    font-size: larger;
+    margin: 10px;
+}
+.about-text h2{
+    font-style: oblique;
+    font-size: large;
+    margin: 4px;
+}
+.about-text p{
+    font-size: large;
+}

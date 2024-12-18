@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+   color: white;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/R.690daeaa8c2f89b28653dfe0efdfe065?rik=TjkYEP4srhsxbg&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fuQ4tqzk.jpg&ehk=Yp22L7RSdNelY4QfOD6l%2b7YuLKxkeCQIV8aYcNi8oIY%3d&risl=&pid=ImgRaw&r=0);
+}
+h1{
+    margin: 50px;
+    padding: 20px;
+}
+.point{
+    width: 90%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 50px;
+}
+.htc h2{
+    margin: 10px;
+    font-style: oblique;
+    font-size: larger;
+}
+.htc p{
+    font-size: large ;
+}
+.cp h2{
+    margin: 10px;
+    font-style: oblique;
+    font-size: larger;
+}
+.cp p{
+    font-size: large;
+}
+.kot h2{
+    margin: 10px;
+    font-style: oblique;
+    font-size: larger;
+}
+.kot p{
+    font-size: large;
+}
+.edit h2{
+    margin: 10px;
+    font-style: oblique;
+    font-size: larger;
+}
+.edit p{
+    font-size: large;
+}

@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+   color: white;
+    box-sizing: border-box;
+}
+ .hero{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://th.bing.com/th/id/R.690daeaa8c2f89b28653dfe0efdfe065?rik=TjkYEP4srhsxbg&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fuQ4tqzk.jpg&ehk=Yp22L7RSdNelY4QfOD6l%2b7YuLKxkeCQIV8aYcNi8oIY%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+    background-position: center;
+ }
+ nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 45px;
+    padding-left: 8%;
+    padding-right: 8%;
+ }
+ .logo{
+     color: white;
+     font-size: 35px;
+     letter-spacing: 1px;
+     cursor: pointer;
+ }
+ span{
+    color: orangered;
+ }
+ nav ul li{
+    display: inline-block;
+    padding: 10px 20px;
+ }
+ nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+ }
+ ul li a:hover{
+color: lightcoral;
+ }
+ .intro{
+color: white;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin: 70px;
+padding: 70px;
+font-size: larger;
+ }
+ .input h2{
+    margin: 5px;
+    font-style: inherit;
+ }
+ .intro h3{
+    font-style: oblique;
+    margin: 3px;
+ }
+ .intro h5{
+    font-style: oblique;
+    margin: 2px;
+    font-size: medium;
+ }
+ .section{
+    margin: 80%;
+ }
+ .main{
+    background-image: ("https://wallpapercave.com/wp/wp2732954.jpg");
+ }
+ footer{
+   background-color: black;
+   position: relative;
+  width: 100%;
+  min-height: 100px;
+  padding: 3rem 1rem; 
+ }
+ .container h1{
+   font-style: italic;
+ }
+ .col{
+   font-size: small;
+   font-style: oblique;
+ }
